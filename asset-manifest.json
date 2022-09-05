@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.a6e42af1.css",
-    "main.js": "/portfolio-website/static/js/main.263d024c.js",
+    "main.css": "/portfolio-website/static/css/main.96356f6f.css",
+    "main.js": "/portfolio-website/static/js/main.845e6bf5.js",
     "static/js/787.749b4a44.chunk.js": "/portfolio-website/static/js/787.749b4a44.chunk.js",
+    "static/media/boxicons.svg": "/portfolio-website/static/media/boxicons.0153fb5e5b5f697b4bcc.svg",
+    "static/media/silas-dev.jpg": "/portfolio-website/static/media/silas-dev.1cc080b4e9ba0618efcb.jpg",
+    "static/media/wiplayit-mock-small.png": "/portfolio-website/static/media/wiplayit-mock-small.1c7f038c5370615410b8.png",
+    "static/media/boxicons.eot": "/portfolio-website/static/media/boxicons.21f7c5dd64d88e1fc666.eot",
+    "static/media/boxicons.woff": "/portfolio-website/static/media/boxicons.02aa967c5bfb9489501a.woff",
+    "static/media/boxicons.ttf": "/portfolio-website/static/media/boxicons.ad0ddae357213656b3e6.ttf",
+    "static/media/bootstrap-icons.woff?": "/portfolio-website/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/boxicons.woff2": "/portfolio-website/static/media/boxicons.0335b427967c56248ea6.woff2",
+    "static/media/bootstrap-icons.woff2?": "/portfolio-website/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
     "index.html": "/portfolio-website/index.html",
-    "main.a6e42af1.css.map": "/portfolio-website/static/css/main.a6e42af1.css.map",
-    "main.263d024c.js.map": "/portfolio-website/static/js/main.263d024c.js.map",
+    "main.96356f6f.css.map": "/portfolio-website/static/css/main.96356f6f.css.map",
+    "main.845e6bf5.js.map": "/portfolio-website/static/js/main.845e6bf5.js.map",
     "787.749b4a44.chunk.js.map": "/portfolio-website/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6e42af1.css",
-    "static/js/main.263d024c.js"
+    "static/css/main.96356f6f.css",
+    "static/js/main.845e6bf5.js"
   ]
 }
