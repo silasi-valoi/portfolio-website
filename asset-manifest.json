@@ -1,24 +1,36 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.96356f6f.css",
-    "main.js": "/portfolio-website/static/js/main.845e6bf5.js",
+    "main.css": "/portfolio-website/static/css/main.5e5b00b4.css",
+    "main.js": "/portfolio-website/static/js/main.0a51de8b.js",
     "static/js/787.749b4a44.chunk.js": "/portfolio-website/static/js/787.749b4a44.chunk.js",
     "static/media/boxicons.svg": "/portfolio-website/static/media/boxicons.0153fb5e5b5f697b4bcc.svg",
     "static/media/silas-dev.jpg": "/portfolio-website/static/media/silas-dev.1cc080b4e9ba0618efcb.jpg",
-    "static/media/wiplayit-mock-small.png": "/portfolio-website/static/media/wiplayit-mock-small.1c7f038c5370615410b8.png",
     "static/media/boxicons.eot": "/portfolio-website/static/media/boxicons.21f7c5dd64d88e1fc666.eot",
     "static/media/boxicons.woff": "/portfolio-website/static/media/boxicons.02aa967c5bfb9489501a.woff",
     "static/media/boxicons.ttf": "/portfolio-website/static/media/boxicons.ad0ddae357213656b3e6.ttf",
     "static/media/bootstrap-icons.woff?": "/portfolio-website/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/wiplayit-5.png": "/portfolio-website/static/media/wiplayit-5.e376c969a7be7b767277.png",
     "static/media/boxicons.woff2": "/portfolio-website/static/media/boxicons.0335b427967c56248ea6.woff2",
     "static/media/bootstrap-icons.woff2?": "/portfolio-website/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/wiplayit-4.png": "/portfolio-website/static/media/wiplayit-4.6c203d5de7a68e32d202.png",
+    "static/media/wiplayit-1.png": "/portfolio-website/static/media/wiplayit-1.273da707563c6dbb3e6a.png",
+    "static/media/wiplayit-2.png": "/portfolio-website/static/media/wiplayit-2.31146e9d01bf33084d7d.png",
+    "static/media/wiplayit-9.png": "/portfolio-website/static/media/wiplayit-9.48918614a7b5c79378bf.png",
+    "static/media/wiplayit-3.png": "/portfolio-website/static/media/wiplayit-3.e40ac3ad1dd47fe3958d.png",
+    "static/media/wiplayit-10.png": "/portfolio-website/static/media/wiplayit-10.5156c916900a1a026b7a.png",
+    "static/media/wiplayit-6.png": "/portfolio-website/static/media/wiplayit-6.05f23af6c2ef16dee201.png",
+    "static/media/wiplayit-7.png": "/portfolio-website/static/media/wiplayit-7.1a3636e9febedc60091b.png",
+    "static/media/wiplayit-8.png": "/portfolio-website/static/media/wiplayit-8.922cfbd9cc5cec1fef1d.png",
+    "static/media/calculator-1.png": "/portfolio-website/static/media/calculator-1.c995efb3319a6cf55c5a.png",
+    "static/media/calculator-2.png": "/portfolio-website/static/media/calculator-2.e76448b8e93c33291fe2.png",
+    "static/media/calculator-3.png": "/portfolio-website/static/media/calculator-3.75ffb75005d772eb6adb.png",
     "index.html": "/portfolio-website/index.html",
-    "main.96356f6f.css.map": "/portfolio-website/static/css/main.96356f6f.css.map",
-    "main.845e6bf5.js.map": "/portfolio-website/static/js/main.845e6bf5.js.map",
+    "main.5e5b00b4.css.map": "/portfolio-website/static/css/main.5e5b00b4.css.map",
+    "main.0a51de8b.js.map": "/portfolio-website/static/js/main.0a51de8b.js.map",
     "787.749b4a44.chunk.js.map": "/portfolio-website/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96356f6f.css",
-    "static/js/main.845e6bf5.js"
+    "static/css/main.5e5b00b4.css",
+    "static/js/main.0a51de8b.js"
   ]
 }
