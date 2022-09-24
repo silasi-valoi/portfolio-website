@@ -8,10 +8,6 @@
 	margin-bottom: 30px;
 }
 
-.portfolio-container {
-	border:px solid blue;
-}
-
 .projects-container #portfolio-flters {
 	padding: 0;
 	margin: 0 auto 35px auto;
@@ -51,10 +47,6 @@
 	z-index: 1;
 }
 
-
-.projects-container .portfolio-wrap .img-fluid {
-  	border: px solid black;
-}
 
 
 .projects-container .portfolio-wrap::before {
